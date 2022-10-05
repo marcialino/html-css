@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body {
+    font: normal 1em Arial, Helvetica, sans-serif;
+}
+
+#titulo-principal{
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+}
+h1{
+    font-size: 2 em;
+    color: darkgreen;
+}
+
+.topico{
+    text-align: right;
+}
+
+.texto{
+    text-align: justify;
+}
+
+h2{
+    color: green;
+}
